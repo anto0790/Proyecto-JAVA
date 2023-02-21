@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author antoo
+ *
+ */
+module EmergencyRoom {
+}
